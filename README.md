@@ -1,4 +1,5 @@
 ## Hi there im tiniarz 👋
+![Teranium Welcome](https://img.shields.io/badge/Tiniarz-welcomes%20you-2c3e50?style=for-the-badge)
 
 - 🔭 I’m currently working on fun things
 - 🌱 I’m currently learning C++,Assembly,JavaScript and Python
