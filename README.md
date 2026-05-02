@@ -8,4 +8,4 @@
 - 💬 Ask me about many things
 - 📫 How to reach me: You cant.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im an author of everything except those samples on CPP/CS/PS repo
+- ⚡ Fun fact: Im an author of everything except those samples on CPP/CS/PS repo and RedTiger repo
